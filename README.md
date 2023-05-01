@@ -5,7 +5,7 @@ Hi! I'm **Ahmad Subaktagin Jabir**. A driven and enthusiastic individual with a 
 
 
 # 💫 About Me:
-🔭 I’m currently working as Trainee Officer in the IT & eBiz Department at AB Bank<br>🌱 I’m currently learning SpringBoot<br>
+🔭 I’m currently working as Trainee Officer in the IT & eBiz Department at AB Bank<br>🌱 I’m currently learning SpringBoot, TypeScript, NextJS<br>
 
 
 ## 🌐 Socials:
