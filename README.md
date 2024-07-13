@@ -1,11 +1,11 @@
 # Welcome to My Profile
 
-Hi! I'm **Ahmad Subaktagin Jabir**. A driven and enthusiastic individual with a special interest in user interface design, web development, software testing, and programming. I enjoy discovering new things in my environment, and I work well in teams.
+Hi! I'm **Ahmad Subaktagin Jabir**. A driven and enthusiastic individual with a special interest in user interface design, web development, software testing, and programming. I enjoy discovering new things in my environment and work well in teams.
 
 
 
 # 💫 About Me:
-🔭 I’m currently working as an Officer in the Application Development Team of the IT & eBiz Department at AB Bank<br>🌱 I’m presently learning SpringBoot, TypeScript, NextJS and other different stacks<br>
+🔭 I’m currently working as an Officer in the Application Development Team of the IT Department at AB Bank<br>🌱 I’m presently learning SpringBoot, TypeScript, NextJS, and other different stacks<br>
 
 
 ## 🌐 Socials:
