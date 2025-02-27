@@ -5,7 +5,7 @@ Hi! I'm **Ahmad Subaktagin Jabir**. A driven and enthusiastic individual with a 
 
 
 # 💫 About Me:
-🔭 I’m currently working as an Officer in the Application Development Team of the IT Department at AB Bank<br>🌱 I’m presently learning SpringBoot, TypeScript, NextJS, and other different stacks<br>
+🔭 I’m currently working as an Officer in the Innovation & Transformation Team of the IT Division at AB Bank PLC<br>🌱 I’m presently working with SpringBoot, Thymeleaf and MERN Stack<br>
 
 
 ## 🌐 Socials:
